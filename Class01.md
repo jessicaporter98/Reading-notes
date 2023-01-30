@@ -19,7 +19,16 @@ This is a *italicized* example.
   1.  first item
   2. second item
   3. third item 
-  4. fourth item
+  4. fourth item 
+  
+  
+  Here is a link to [google](https://google.com)
+  
+  
+  My email as a link is <jessicaporter98@yahoo.com>
+  
+  
+  
   #### This is a added image 
   
   
