@@ -2,9 +2,10 @@
 Notes for Code School
 
 ## [Class01](/Reading-Notes/Class01).
-Every syntax we learned bout today is very helpful as they can help us customize our websites from heading sizes to line breaks.
+Today we made a github site 
+Every syntax we learned bout today is very helpful as they can help us customize our websites from heading sizes to line breaks and creating paragaraphs.
 
-Today we made a github site
+
 
 ## Class 02 
 
@@ -13,3 +14,7 @@ Today we made a github site
 ## Class 04 
 
 ## Class 05
+
+
+## Things i want to learn more about 
+1.algorithms 
