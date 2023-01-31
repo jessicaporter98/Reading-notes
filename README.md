@@ -7,7 +7,7 @@ Every syntax we learned bout today is very helpful as they can help us customize
 
 
 
-## Class 02 
+## [Class 02](https://jessicaporter98.github.io/Reading-notes/) 
 
 ## Class 03
 
