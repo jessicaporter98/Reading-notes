@@ -1,7 +1,7 @@
 # Reading-notes- 
 Notes for Code School
 
-## [Class01](/Reading-Notes/Class01).
+## [Class01](https://github.com/jessicaporter98/Reading-notes/blob/1874aed36a95184b194e1cb559b9f538a6978353/Class01.md)
 Today we made a github site 
 Every syntax we learned bout today is very helpful as they can help us customize our websites from heading sizes to line breaks and creating paragaraphs.
 
