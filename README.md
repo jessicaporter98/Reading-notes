@@ -1,5 +1,5 @@
 # Reading-notes- 
-Notes for Code School
+
 
 ## [Class01](https://github.com/jessicaporter98/Reading-notes/blob/1874aed36a95184b194e1cb559b9f538a6978353/Class01.md)
 
@@ -14,5 +14,4 @@ Notes for Code School
 ## Class 05
 
 
-## Things i want to learn more about 
-1.algorithms 
+ 
