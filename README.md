@@ -1,6 +1,8 @@
 # Table Of Contents
 
 
+## [Course 102](/Reading-Notes/102/)
+
 ## [Class 01](https://github.com/jessicaporter98/Reading-notes/blob/1874aed36a95184b194e1cb559b9f538a6978353/Class01.md)
 
 
