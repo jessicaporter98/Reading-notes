@@ -1,7 +1,7 @@
 # Creating a website with HTML
   ## Wireframing 
 
-  
+
 **Wireframing** - Wireframing is how *UX designers* plan out and design the layout of the website before actually creating the website.
 
 When designing for the screen you need to know where all the information is going to go in plain black and white diagrams before building anything with code.
@@ -23,7 +23,7 @@ Sketch > Code
 Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
 Sketch > Wireframe > Visual > Code
 
-**keep user in mind**
+**Keep user in mind**
 
 How to make your wireframe good :
 Clarity
